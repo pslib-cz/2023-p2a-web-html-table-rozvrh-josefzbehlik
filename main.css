@@ -1,0 +1,21 @@
+td, th{
+    border: 1px solid #b0b0b0;
+    text-align: center;
+    background-color: rgb(220, 243, 255);
+padding: 0.5em;
+}
+tr{
+    height: 1em;    
+
+}
+th{
+    width: 2em;
+}
+table{
+    padding: 0.5em;
+    border-spacing: 0.5em;
+
+}
+body{
+    background-color: #9ebcf7;  
+}
